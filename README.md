@@ -2,6 +2,7 @@
 
 These are my web3 projects
 As you know, I have built in several web3 projects on different networks.
+I think Runes is making the progress of creating fungible tokens on Bitcoin more efficent than BRC-20. The era of Runes is coming.
 <div>If you want, you can see.</div>
 
 <h3><u><strong><i>Turtsat</i></strong></u> &nbsp;(Bitcoin)</h3>
