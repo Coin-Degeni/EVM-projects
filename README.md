@@ -47,8 +47,7 @@ You can buy $COW at PancakeSwap, but there are other ways to get it, like contri
 <hr />
 
 
-<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/c626c9e1-b362-4647-bab2-a7bd85e386b3
-">
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/c626c9e1-b362-4647-bab2-a7bd85e386b3">
 
 This is a project which users can mint and stake their crazy clown nfts for reward. All holders of a Crazy Clowns can stake and receive token per day.
 
