@@ -8,8 +8,7 @@ As you know, I have built in several web3 projects on different networks.
 <h3><u><strong><i>CashCow</i></strong></u> &nbsp;(Ether)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/267c35e9-47f8-4725-a971-6944ae114304
-">
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/267c35e9-47f8-4725-a971-6944ae114304">
 <div>CashCow Protocol is a community driven project with the vision of creating a positive impact in people’s lives by being a trusted and long term investment.
 CashCow Token is a hyper-deflationary DeFi token with very low supply and reflective tokenomics allowing you to earn by just holding.
 CashCow Token holders are the owners of the project and can be involved in Core decisions through the Governance DAO.
@@ -23,8 +22,7 @@ You can buy $COW at PancakeSwap, but there are other ways to get it, like contri
 <h3><u><strong><i>StakeWise</i></strong></u> &nbsp;(Ether)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/8ee14bf0-b538-4092-81af-2f62a7b83a54
-">
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/8ee14bf0-b538-4092-81af-2f62a7b83a54">
 <div>StakeWise DAO is a liquid staking protocol for Ethereum and Gnosis Chain. Secure the network with your ETH & GNO and receive staked ETH and staked GNO tokens in return; then use them to exit from staking at any time or access opportunities in DeFi.</div>
 <div>- Built backend for staking.</div>
 <div>- Optimized metadata and transaction.</div>
@@ -37,8 +35,7 @@ You can buy $COW at PancakeSwap, but there are other ways to get it, like contri
 <h3><u><strong><i>PIXUDI</i></strong></u> &nbsp;(Avalache)</h3>
 <hr/>
 
-<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/5a99ad5a-2d4a-4a55-8f6d-77bfc64a6e13
-">
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/5a99ad5a-2d4a-4a55-8f6d-77bfc64a6e13">
 
 <div>Pixudi is a race board game built with Avalanche blockchain. Players compete with each other to collect more treasures than others by overcoming obstacles that come their way and completing missions. Pixudi combines 2 business models: Free2Play and Play2Collect.</div>
 
