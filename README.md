@@ -2,57 +2,61 @@
 
 These are my web3 projects
 As you know, I have built in several web3 projects on different networks.
-<div>If you want, you can see.</div>
-<h3>I think Runes is making the progress of creating fungible tokens on Bitcoin more efficent than BRC-20. <br>The era of Runes is coming.</h3>
+<div>All repo is under private status.</div>
 
 
-<h3><u><strong><i>Turtsat</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>CashCow</i></strong></u> &nbsp;(Ether)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/CryptoDegen84/My-Web3-Projects-Overview/assets/34873894/1861005f-1e99-4ed7-a7fe-81c404e47d6d">
-<div>This is a community-driven open platform for ordinals, with a mission to become the Bitcoin of Ordinals, providing a space for everyone to build, donate, and impact Bitcoin Ordinals & BRC-20.</div>
-<div>-Used custodial staking services</div>
-<div>- Built backend for staking.</div>
-<div>- Built admin page and frontend.</div>
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/267c35e9-47f8-4725-a971-6944ae114304
+">
+<div>CashCow Protocol is a community driven project with the vision of creating a positive impact in people’s lives by being a trusted and long term investment.
+CashCow Token is a hyper-deflationary DeFi token with very low supply and reflective tokenomics allowing you to earn by just holding.
+CashCow Token holders are the owners of the project and can be involved in Core decisions through the Governance DAO.
+You can buy $COW at PancakeSwap, but there are other ways to get it, like contributing for the growth project in the Ambassador’s program or joining the different activities going on in community.</div>
 
-- Visit: <a href="https://turtsat.io">Turtsat</a>
-- Frontend repo: <a href="https://github.com/Turtsat/Turtsat-frontend">Turtsat-frontend</a>
-- Backend repo: <a href="https://github.com/Turtsat/Turtsat-backend">Turtsat-backend</a>
+- Visit: <a href="https://cashcowprotocol.com/">CashCow</a>
+- Frontend repo: <a href="https://github.com/Coin-Degeni/cashcow-frontend">Turtsat-frontend</a>
+- Backend repo: <a href="https://github.com/Coin-Degeni/cashcow-backend">Turtsat-backend</a>
 -
 
-<h3><u><strong><i>Taproot Wizards</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>StakeWise</i></strong></u> &nbsp;(Ether)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/CryptoDegen84/My-Web3-Projects-Overview/assets/34873894/f9a0025b-8c77-41af-b32d-77772c301586">
-<div>Make bitcoin magical again with magic internet JPEGs inscribed forever on the Bitcoin blockchain.</div>
-<div>- Built backend for minting.</div>
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/8ee14bf0-b538-4092-81af-2f62a7b83a54
+">
+<div>StakeWise DAO is a liquid staking protocol for Ethereum and Gnosis Chain. Secure the network with your ETH & GNO and receive staked ETH and staked GNO tokens in return; then use them to exit from staking at any time or access opportunities in DeFi.</div>
+<div>- Built backend for staking.</div>
 <div>- Optimized metadata and transaction.</div>
 
-- Visit: <a href="https://taprootwizards.com/">Taproot Wizards</a>
-- Frontend repo: <a href="https://github.com/cryptodegen84/taprootwizards-frontend">taprootwizards-frontend</a>
-- Backend repo: <a href="https://github.com/cryptodegen84/taprootwizards-backend">taprootwizards-backend</a>
+- Visit: <a href="https://app.stakewise.io">StakeWise</a>
+- Frontend repo: <a href="https://github.com/cryptodegen84/taprootwizards-frontend">stakewise-frontend</a>
+- Backend repo: <a href="https://github.com/cryptodegen84/taprootwizards-backend">stakewise-backend</a>
 
 
-<h3><u><strong><i>Scarce City</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>PIXUDI</i></strong></u> &nbsp;(Avalache)</h3>
 <hr/>
 
-<img align="right" width="300px" src="https://github.com/CryptoDegen84/My-Web3-Projects-Overview/assets/34873894/26adeb33-e2af-44b4-b8ce-e1889f30e0b1">
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/5a99ad5a-2d4a-4a55-8f6d-77bfc64a6e13
+">
 
-<div>Scarce City is a marketplace that uses Bitcoin technology to sell Bitcoin goods for Bitcoin. Led marketplace platform development.</div>
+<div>Pixudi is a race board game built with Avalanche blockchain. Players compete with each other to collect more treasures than others by overcoming obstacles that come their way and completing missions. Pixudi combines 2 business models: Free2Play and Play2Collect.</div>
 
-- Visit: <a href="https://scarce.city/">Scarce City</a>
-- Frontend repo: <a href="https://github.com/cryptodegen84/scarcecity-frontend">scarcecity-frontend</a>
-- Backend repo: <a href="https://github.com/cryptodegen84/scarcecityt-backend">scarcecity-backend</a>
+- Visit: <a href="https://game.pixudi.com/">PIXUDI</a>
+- Frontend repo: <a href="https://github.com/Coin-Degeni/pixudi-frontend">pixudi-frontend</a>
+- Backend repo: <a href="https://github.com/Coin-Degeni/pixudi-backend">pixudi-backend</a>
 
-<h3><u><strong><i>Kong Fu</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>The Royal Kingdom</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/CryptoDegen84/My-Web3-Projects-Overview/assets/34873894/506cc8c0-f54f-4a06-bf92-24cefa0ac289">
 
-This is launchpad for artists creators and brands to leverage a community of pioneers and early adopters to build its own NFTs.
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/c626c9e1-b362-4647-bab2-a7bd85e386b3
+">
 
-- Visit: <a href="https://kongfu.megapont.com/">Kong Fu</a>
-- Frontend repo: <a href="https://github.com/cryptodegen84/kongfu-frontend">kongfu-frontend</a>
-- Backend repo: <a href="https://github.com/cryptodegen84/kongfu-backend">kongfu-backend</a>
+This is a project which users can mint and stake their crazy clown nfts for reward. All holders of a Crazy Clowns can stake and receive token per day.
+
+- Visit: <a href="https://theroyalkingdom.xyz/">The Royal Kingdom</a>
+- Frontend repo: <a href="https://github.com/Coin-Degeni/kongfu-frontend">royalkingdom-frontend</a>
+- Backend repo: <a href="https://github.com/Coin-Degeni/kongfu-backend">royalkingdom-backend</a>
 
 
