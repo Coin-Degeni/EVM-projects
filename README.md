@@ -8,7 +8,7 @@ As you know, I have built in several web3 projects on different networks.
 <h3><u><strong><i>CashCow</i></strong></u> &nbsp;(Ether)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/267c35e9-47f8-4725-a971-6944ae114304">
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/EVM-projects/assets/132503531/8aa25970-3693-4681-bdf0-4638f48d9262">
 <div>CashCow Protocol is a community driven project with the vision of creating a positive impact in people’s lives by being a trusted and long term investment.
 CashCow Token is a hyper-deflationary DeFi token with very low supply and reflective tokenomics allowing you to earn by just holding.
 CashCow Token holders are the owners of the project and can be involved in Core decisions through the Governance DAO.
