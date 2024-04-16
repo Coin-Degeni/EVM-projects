@@ -43,16 +43,33 @@ You can buy $COW at PancakeSwap, but there are other ways to get it, like contri
 - Frontend repo: <a href="https://github.com/Coin-Degeni/pixudi-frontend">pixudi-frontend</a>
 - Backend repo: <a href="https://github.com/Coin-Degeni/pixudi-backend">pixudi-backend</a>
 
-<h3><u><strong><i>The Royal Kingdom</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>Fanbase Defi</i></strong></u> &nbsp;(ether)</h3>
 <hr />
 
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/EVM-projects/assets/132503531/3c2d8580-617a-400b-8e4c-ec03646bf4aa">
 
-<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/c626c9e1-b362-4647-bab2-a7bd85e386b3">
+Fanbase is a blockchain ecosystem for media networks and technology start-ups. Fanbase is the first blockchain ecosystem built specifically for 
+media creators like game developer, record labels, film companies, amd news organizations.
+-Topic
+<br>Dex, Defi, Staking, Amm, Ethereum, Multichain, NFT
+-Tech
+<br>Solidity, React, Node, Typscript, Microservice,Ethers
 
-This is a project which users can mint and stake their crazy clown nfts for reward. All holders of a Crazy Clowns can stake and receive token per day.
+- Visit: <a href="https://theroyalkingdom.xyz/">Fanbase Defi</a>
+- Frontend repo: <a href="https://github.com/Coin-Degeni/fanbase-frontend">fanbase-frontend</a>
+- Backend repo: <a href="https://github.com/Coin-Degeni/fanbase-backend">fanbase-backend</a>
+
+<h3><u><strong><i>Brewlabs</i></strong></u> &nbsp;(ether)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/EVM-projects/assets/132503531/3c2d8580-617a-400b-8e4c-ec03646bf4aa">
+
+Brewlabs is made up of core foundations powering the future vision and growth of this proejct. The business is led by professionals with significant commercial experience, who aim to create an ecosystem of cutting-edge and unique offerings that give the Brelabs token infinite growth potential.
+-Topic
+<br>Airdrop, Defi, Staking, Ethereum, BSC, Multichain
+-Tech
+<br>Solidity, React, Node, Typscript, Microservice,Ethers, Express, Web3
 
 - Visit: <a href="https://theroyalkingdom.xyz/">The Royal Kingdom</a>
 - Frontend repo: <a href="https://github.com/Coin-Degeni/kongfu-frontend">royalkingdom-frontend</a>
 - Backend repo: <a href="https://github.com/Coin-Degeni/kongfu-backend">royalkingdom-backend</a>
-
-
