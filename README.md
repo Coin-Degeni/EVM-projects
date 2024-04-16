@@ -56,13 +56,12 @@ media creators like game developer, record labels, film companies, amd news orga
 -Tech
 <br>Solidity, React, Node, Typscript, Microservice,Ethers
 
-- Visit: <a href="https://theroyalkingdom.xyz/">Fanbase Defi</a>
+- Visit: <a href="https://fanbase.io">Fanbase Defi</a>
 - Frontend repo: <a href="https://github.com/Coin-Degeni/fanbase-frontend">fanbase-frontend</a>
 - Backend repo: <a href="https://github.com/Coin-Degeni/fanbase-backend">fanbase-backend</a>
 
 <h3><u><strong><i>Brewlabs</i></strong></u> &nbsp;(ether)</h3>
 <hr />
-
 
 <img align="right" width="300px" src="https://github.com/Coin-Degeni/EVM-projects/assets/132503531/4367f7ae-031e-4f6a-af26-5e70ceb4d88a">
 
@@ -72,6 +71,21 @@ Brewlabs is made up of core foundations powering the future vision and growth of
 -Tech
 <br>Solidity, React, Node, Typscript, Microservice,Ethers, Express, Web3
 
-- Visit: <a href="https://theroyalkingdom.xyz/">The Royal Kingdom</a>
-- Frontend repo: <a href="https://github.com/Coin-Degeni/kongfu-frontend">royalkingdom-frontend</a>
-- Backend repo: <a href="https://github.com/Coin-Degeni/kongfu-backend">royalkingdom-backend</a>
+- Visit: <a href="https://brewlabs.info">BrewLabs</a>
+- Frontend repo: <a href="https://github.com/Coin-Degeni/brewlabs-frontend">brewlabs-frontend</a>
+- Backend repo: <a href="https://github.com/Coin-Degeni/brewlabs-backend">brewlabs-backend</a>
+
+<h3><u><strong><i>Tofu NFT</i></strong></u> &nbsp;(ether)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/EVM-projects/assets/132503531/5b696400-ab1b-4cf3-b3ce-88a77780bc1d">
+
+tofuNFT is designed to be easy to use, yet highly optimized for efficient trading. It is a succesor of SCV's NFT Marketplace, which started as a side proeject of SCV.
+-Topic
+<br>Gaming, P2E, Ethereum, BSC, Multichain, NFT
+-Tech
+<br>Solidity, Next.js, Node, Typscript, Microservices, Express, Web3
+
+- Visit: <a href="https://tofunft.com">Tofu NFT</a>
+- Frontend repo: <a href="https://github.com/Coin-Degeni/tofunft-frontend">tofunft-frontend</a>
+- Backend repo: <a href="https://github.com/Coin-Degeni/tofunft-backend">tofunft-backend</a>
