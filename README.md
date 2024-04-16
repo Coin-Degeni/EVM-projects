@@ -8,7 +8,8 @@ As you know, I have built in several web3 projects on different networks.
 <h3><u><strong><i>CashCow</i></strong></u> &nbsp;(Ether)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/Coin-Degeni/EVM-projects/assets/132503531/8aa25970-3693-4681-bdf0-4638f48d9262">
+
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/EVM-projects/assets/132503531/831b2e8a-fb4f-4c79-af7e-b055ae806aec">
 <div>CashCow Protocol is a community driven project with the vision of creating a positive impact in people’s lives by being a trusted and long term investment.
 CashCow Token is a hyper-deflationary DeFi token with very low supply and reflective tokenomics allowing you to earn by just holding.
 CashCow Token holders are the owners of the project and can be involved in Core decisions through the Governance DAO.
@@ -62,7 +63,8 @@ media creators like game developer, record labels, film companies, amd news orga
 <h3><u><strong><i>Brewlabs</i></strong></u> &nbsp;(ether)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/Coin-Degeni/EVM-projects/assets/132503531/3c2d8580-617a-400b-8e4c-ec03646bf4aa">
+
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/EVM-projects/assets/132503531/4367f7ae-031e-4f6a-af26-5e70ceb4d88a">
 
 Brewlabs is made up of core foundations powering the future vision and growth of this proejct. The business is led by professionals with significant commercial experience, who aim to create an ecosystem of cutting-edge and unique offerings that give the Brelabs token infinite growth potential.
 -Topic
